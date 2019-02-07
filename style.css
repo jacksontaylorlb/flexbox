@@ -341,7 +341,7 @@ a:active{
         font-size: 25px;
         /*margin-top: 4px;*/
         margin-bottom: 4px;
-        float: top /*!important;*/
+        /*float: top /*!important;*/
     }
 
     footer{
@@ -350,7 +350,7 @@ a:active{
         font-size: 25px;
         margin-top: 4px;
         margin-bottom: 4px;
-        float: bottom /*!important;*/
+        /*float: bottom /*!important;*/
     }
 
     ul{
@@ -390,15 +390,15 @@ a:active{
     }
 
     .float-left-area{
-        width: 20%;
+        height: 20px;
         /*height:100% !important;*/
-        float:left;
+        float:top;
         background-color:darkorange;
     }
     .float-right-area{
-        width:80%;
+        height:80px;
         /*min-height:100% !important;*/
-        float:right;
+        float:bottom;
         background-color:black;
     }
     .inner-left{
