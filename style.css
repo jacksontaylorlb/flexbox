@@ -206,7 +206,7 @@ a:active{
 /*END DESKTOP DISPLAY*/
 
 /* #### Mobile Phones Portrait #### */
-@media screen and (max-device-width: 480px) and (orientation: portrait){
+@media screen and (max-device-width: 640px) and (orientation: portrait){
     body {
         font-family: 'Open Sans', sans-serif;
         line-height: 1.75em;
