@@ -355,7 +355,7 @@ a:active{
 
     ul{
         margin: 0px;
-        flex-direction: row;
+        flex-direction: column;
         display: flex;
         background: darkorange;
     }
