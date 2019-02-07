@@ -286,7 +286,7 @@ a:active{
 
     .float-left-area{
         position: relative;
-        height: 200px;
+        height: 120px;
         /*height:100% !important;*/
         float:top !important;
         background-color:darkorange;
@@ -294,7 +294,7 @@ a:active{
     }
     .float-right-area{
         position: relative;
-        height:1000px;
+        height:1300px;
         /*min-height:100% !important;*/
         float:bottom !important;
         background-color:black;
