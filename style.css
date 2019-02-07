@@ -292,7 +292,7 @@ a:active{
         background-color:darkorange;
     }
     .float-right-area{
-        position: absolute;
+        position: relative;
         height:1000px;
         /*min-height:100% !important;*/
         float:bottom !important;
