@@ -149,7 +149,7 @@ a:active{
 
     ul{
         margin: 0px;
-        flex-direction: column;
+        flex-direction: row;
         display: flex;
         background: darkorange;
     }
