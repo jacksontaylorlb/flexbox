@@ -236,7 +236,7 @@ a:active{
         font-size: 25px;
         /*margin-top: 4px;*/
         margin-bottom: 4px;
-        float: top !important;
+        /*float: top /*!important;*/
     }
 
     footer{
@@ -245,7 +245,7 @@ a:active{
         font-size: 25px;
         margin-top: 4px;
         margin-bottom: 4px;
-        float: bottom !important;
+        /*float: bottom /*!important;*/
     }
 
     ul{
@@ -341,7 +341,7 @@ a:active{
         font-size: 25px;
         /*margin-top: 4px;*/
         margin-bottom: 4px;
-        float: top !important;
+        float: top /*!important;*/
     }
 
     footer{
@@ -350,12 +350,12 @@ a:active{
         font-size: 25px;
         margin-top: 4px;
         margin-bottom: 4px;
-        float: bottom !important;
+        float: bottom /*!important;*/
     }
 
     ul{
         margin: 0px;
-        flex-direction: column;
+        flex-direction: row;
         display: flex;
         background: darkorange;
     }
