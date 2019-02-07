@@ -285,11 +285,12 @@ a:active{
     }
 
     .float-left-area{
-        position: absolute;
+        position: relative;
         height: 200px;
         /*height:100% !important;*/
-        float: top !important;
+        float:top !important;
         background-color:darkorange;
+        width:100%;
     }
     .float-right-area{
         position: relative;
@@ -297,6 +298,7 @@ a:active{
         /*min-height:100% !important;*/
         float:bottom !important;
         background-color:black;
+        width: 100%;
     }
     .inner-left{
         padding: 5px 5px 5px 5px;
