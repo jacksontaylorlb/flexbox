@@ -285,13 +285,13 @@ a:active{
     }
 
     .float-left-area{
-        width: 20%;
+        height: 20%;
         /*height:100% !important;*/
         float:top;
         background-color:darkorange;
     }
     .float-right-area{
-        width:80%;
+        height:80%;
         /*min-height:100% !important;*/
         float:bottom;
         background-color:black;
