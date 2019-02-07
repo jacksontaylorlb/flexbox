@@ -287,26 +287,26 @@ a:active{
     .float-left-area{
         height: 200px;
         /*height:100% !important;*/
-
+        float: top;
         background-color:darkorange;
     }
     .float-right-area{
         height:500px;
         /*min-height:100% !important;*/
-
+        float:bottom;
         background-color:black;
     }
     .inner-left{
         padding: 5px 5px 5px 5px;
         /*border: #999999;*/
-        width:100%;
         float: top;
+        width:100%;
     }
     .inner-right{
         padding: 5px 5px 5px 5px;
         /*border: #999999 1px solid;*/
-        width:100%;
         float:bottom;
+        width:100%;
     }
 }
 
