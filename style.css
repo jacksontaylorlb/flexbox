@@ -14,7 +14,7 @@ section{
     color:slategrey;
     padding:auto;
     display:flex;
-    flex-direction: column;
+    flex-direction: column !important;
 }
 
 div{
@@ -117,7 +117,7 @@ section{
     color:slategrey;
     padding:auto;
     display:flex;
-    flex-direction: column;
+    flex-direction: column !important;
 }
 
 div{
@@ -222,7 +222,7 @@ a:active{
         color:slategrey;
         padding:auto;
         display:flex;
-        flex-direction: column;
+        flex-direction: column !important;
     }
 
     div{
@@ -333,7 +333,7 @@ a:active{
         color:slategrey;
         padding:auto;
         display:flex;
-        flex-direction: column;
+        flex-direction: column !important;
     }
 
     div{
