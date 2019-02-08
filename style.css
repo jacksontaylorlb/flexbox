@@ -14,7 +14,7 @@ section{
     color:slategrey;
     padding:auto;
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 div{
@@ -117,7 +117,7 @@ section{
     color:slategrey;
     padding:auto;
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 div{
@@ -222,7 +222,7 @@ a:active{
         color:slategrey;
         padding:auto;
         display:flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     div{
@@ -333,7 +333,7 @@ a:active{
         color:slategrey;
         padding:auto;
         display:flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     div{
