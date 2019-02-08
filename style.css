@@ -249,7 +249,7 @@ a:active{
     }
 
     ul{
-        margin: 0px;
+        margin: fill;
         flex-direction: row;
         display: flex;
         background: darkorange;
